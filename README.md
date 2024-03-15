@@ -88,8 +88,9 @@ endmodule
 
 
 **RTL**
+![Screenshot 2024-03-15 145404](https://github.com/Haripriya132006/study-of-basic-gates/assets/144870747/5cf83886-77e8-4b51-b2a2-9edde2eb434d)
 
-![Screenshot 2024-03-15 150415](https://github.com/Haripriya132006/study-of-basic-gates/assets/144870747/ef06ccd4-0dde-4d5f-a01b-44641405701b)
+
 
 
 
