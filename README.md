@@ -83,12 +83,14 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+![Screenshot 2024-03-13 113348](https://github.com/Haripriya132006/study-of-basic-gates/assets/144870747/3f3880b4-ca62-4c8a-b29e-90df231a6590)
 
-![Screenshot 2024-03-13 113348](https://github.com/Haripriya132006/study-of-basic-gates/assets/144870747/d9ffe3fb-cbee-48c4-ba6d-c67c4d799768)
 
 
 **RTL**
-![Screenshot 2024-03-15 150415](https://github.com/Haripriya132006/study-of-basic-gates/assets/144870747/13bf6eec-1918-4e00-9d63-7139ede45792)
+
+![Screenshot 2024-03-15 150415](https://github.com/Haripriya132006/study-of-basic-gates/assets/144870747/ef06ccd4-0dde-4d5f-a01b-44641405701b)
+
 
 
 **Result:**
